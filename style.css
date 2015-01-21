@@ -1,0 +1,109 @@
+html {
+    height: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    
+    font-family: Segoe UI, sans-serif;
+    font-size: 20px;
+    color: #666;
+}
+
+a {
+    color: #999;
+    text-decoration: none;
+    
+    transition: color linear 0.1s;
+}
+
+a:hover {
+    color: #666;
+}
+
+.central-wrapper {
+    position: absolute;
+    left: 50%; top: 50%;
+    margin-top: -130px; margin-left: -260px;
+    padding-left: 240px;
+    height: 200px;
+}
+
+.profile-image {
+    position: absolute;
+    left: 0;
+    width: 200px; height: 200px;
+    border: none;
+    border-radius: 8px;
+}
+
+.profile-name {
+    margin: 4px 0;
+    font-size: 48px;
+    font-weight: normal;
+}
+
+.profile-name a {
+    color: #333;
+}
+
+.project-list-title {
+    margin: 10px 0 0 0;
+    
+    color: #ccc;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.project-list {
+    display: inline;
+    list-style: none;
+    margin: 0; padding: 0;
+    
+    color: #999;
+}
+
+.project-list li {
+    display: inline;
+}
+
+.project-list li::after {
+    content: ',';
+}
+
+.project-list li:last-child::after {
+    content: none;
+}
+
+.project-list li sup {
+    position: relative;
+    left: -3px; top: 2px;
+    color: #09f;
+    font-size: 14px;
+}
+
+.more-projects,
+.more-projects:hover {
+    color: #ccc;
+}
+
+.footer-wrapper {
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    
+    color: #ccc;
+    font-size: 16px;
+    text-align: center;
+}
+
+.footer-wrapper a {
+    color: #ccc;
+}
+
+.footer-wrapper a:hover {
+    color: #999;
+}
