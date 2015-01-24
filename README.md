@@ -37,7 +37,7 @@ Born in 1992, started coding since 15.
 
 [Prever Start](http://vilic.info/blog/projects/prever-start) A web desktop written when I was 17 years old (2009).
 
-[AIVOS](http://vilic.info/blog/projects/aivos) A extensible ajax file manager written before Prever Start.
+[AIVOS](http://vilic.info/blog/projects/aivos) An extensible ajax file manager written before Prever Start.
 
 [X-Wall](https://github.com/vilic/x-wall) A tool for an easier way to cross the wall, has been transfered.
 
