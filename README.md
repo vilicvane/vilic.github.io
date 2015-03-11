@@ -40,9 +40,3 @@ Born in 1992, started coding since 15.
 [AIVOS](http://vilic.info/blog/projects/aivos) An extensible ajax file manager written before Prever Start.
 
 [X-Wall](https://github.com/vilic/x-wall) A tool for an easier way to cross the wall, has been transfered.
-
-## Hire me
-
-Currently I am working on my own start up project. Though not that promising, I would like to end it properly.
-
-Feel free to contact me if you are interested. :D
