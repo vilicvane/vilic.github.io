@@ -4,7 +4,7 @@ JavaScript fellow, now into TypeScript.
 
 ## Currently developing or maintaining
 
-[Drop](https://github.com/vilic/drop) An MVVM framework targets mobile web apps, written in TypeScript.
+[Drop](https://github.com/vilic/drop) An MV* framework targets mobile web apps, written in TypeScript.
 
 [ThenFail](https://github.com/vilic/thenfail) A Promises/A+ implementation, written in TypeScript.
 
