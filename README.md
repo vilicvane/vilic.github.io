@@ -1,7 +1,6 @@
 # VILIC VANE (万松恒)
 
-JavaScript fellow, now into TypeScript.  
-Born in 1992, started coding since 15.
+JavaScript fellow, now into TypeScript.
 
 ## Currently developing or maintaining
 
