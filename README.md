@@ -4,7 +4,7 @@ JavaScript fellow, now into TypeScript.
 
 ## Currently developing or maintaining
 
-[Drop](https://github.com/vilic/drop) An MV* framework targets mobile web apps, written in TypeScript.
+[Drop](https://github.com/vilic/drop) An MV* framework, written in TypeScript.
 
 [ThenFail](https://github.com/vilic/thenfail) A Promises/A+ implementation, written in TypeScript.
 
@@ -18,7 +18,7 @@ JavaScript fellow, now into TypeScript.
 
 [Cordova Text-to-Speech Plugin](https://github.com/vilic/cordova-plugin-tts) A Text-to-Speech plugin for Cordova, covers Windows Phone, iOS and Android.
 
-[Regular Expression Combiner](https://github.com/vilic/regex-combiner) A small tool to concatenate several regular expresions with automatic backreference adjusting and additional sugar.
+[Regular Expression Tools](https://github.com/vilic/regex-tools) A small tool for managing long and complex regular expressions in JavaScript/TypeScript source files.
 
 [Biu!](https://github.com/vilic/biu) A simple private URL shorter written in TypeScript (NodeJS).
 
@@ -34,8 +34,8 @@ JavaScript fellow, now into TypeScript.
 
 [VEJIS](http://vilic.github.io/vejis) A "grammar level" runtime framework for typed JavaScript programming.
 
-[Prever Start](http://vilic.info/blog/projects/prever-start) A web desktop written when I was 17 years old (2009).
+[Prever Start](https://github.com/vilic/prever-start) A web desktop written when I was 17 years old (2009).
 
-[AIVOS](http://vilic.info/blog/projects/aivos) An extensible ajax file manager written before Prever Start.
+AIVOS An extensible ajax file manager written before Prever Start.
 
 [X-Wall](https://github.com/vilic/x-wall) A tool for an easier way to cross the wall, has been transfered.
